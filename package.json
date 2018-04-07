@@ -1,0 +1,22 @@
+{
+  "name": "extremeapp",
+  "version": "1.0.0",
+  "description": "mean app extreme sport blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Jelena Mackic",
+  "license": "ISC"
+}
